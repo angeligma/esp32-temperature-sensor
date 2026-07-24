@@ -1,4 +1,4 @@
-## ESP32 I2C Environmental Display
+## ESP32 I2C Temperature/Humidity Sensor
 
 A native C++ embedded systems project on the ESP32C3 that drives an I2C LCD
 and an I2C temperature/humidity sensor over a single shared bus, with live
